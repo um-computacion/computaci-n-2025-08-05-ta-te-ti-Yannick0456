@@ -1,7 +1,9 @@
 # Ta-Te-Ti en Python
 
-Juego clásico de Ta-Te-Ti para dos jugadores, implementado en Python con programación orientada a objetos.
+Juego de Ta-Te-Ti para dos jugadores.
 
 ## Cómo ejecutar
 ```bash
 python cli.py
+
+**Nombre:** Franco Yannick Baroné Lima
